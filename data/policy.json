@@ -1,0 +1,134 @@
+{
+  "title": "Kebijakan Privasi Pengembang & Website",
+  "title:en": "Developer & Website Privacy Policy",
+  "subtitle": "Yayasan Fasatalya Cendikia • Domain: yayasanfasatalyacendikia.github.io",
+  "subtitle:en": "Yayasan Fasatalya Cendikia • Domain: yayasanfasatalyacendikia.github.io",
+  "badge": "Portal Resmi Organisasi Pengembang",
+  "badge:en": "Official Developer Organization Portal",
+  "lastUpdated": "02 Oktober 2026",
+  "lastUpdated:en": "October 02, 2026",
+  "documentType": "Developer & Website Privacy",
+  "documentType:en": "Developer & Website Privacy",
+  "sections": [
+    {
+      "id": "pendahuluan",
+      "icon": "i-lucide-shield-check",
+      "title": "Pendahuluan & Lingkup Kebijakan",
+      "title:en": "Introduction & Policy Scope",
+      "paragraphs": [
+        "Kebijakan Privasi ini mengatur pengoperasian situs web resmi Yayasan Fasatalya Cendikia yang beralamat di https://yayasanfasatalyacendikia.github.io serta komitmen privasi umum kami selaku entitas pengembang aplikasi yang terdaftar di Google Play Store.",
+        "Situs ini berfungsi sebagai portal informasi resmi profil pengembang, katalog produk digital, pusat kebijakan privasi, serta saluran kontak publik bagi pengguna, lembaga mitra, dan regulator."
+      ],
+      "paragraphs:en": [
+        "This Privacy Policy governs the operation of the official website of Yayasan Fasatalya Cendikia hosted at https://yayasanfasatalyacendikia.github.io and our general privacy commitments as a registered Google Play Store application developer entity.",
+        "This website serves as the official developer information portal, digital product catalog, central privacy policy repository, and public communication channel for users, educational partners, and regulators."
+      ]
+    },
+    {
+      "id": "data-website",
+      "icon": "i-lucide-database",
+      "title": "Pengumpulan Data pada Website",
+      "title:en": "Website Data Collection",
+      "paragraphs": [
+        "Website ini dirancang sebagai situs statis yang mengutamakan privasi penuh pengunjung:"
+      ],
+      "paragraphs:en": [
+        "This website is designed as a static website that prioritizes visitors' complete privacy:"
+      ],
+      "list": [
+        "Nol Cookie Pelacak Komersial: Website ini tidak memasang cookie pelacak iklan pihak ketiga / advertising tracker atau alat analitik perilaku pengguna yang invasif.",
+        "Log Akses Server Statis: Saat Anda mengakses situs ini melalui GitHub Pages, penyedia infrastruktur / GitHub Inc. dapat mencatat data teknis standar internet seperti alamat IP pengunjung, jenis browser, dan waktu akses untuk tujuan keamanan transmisi jaringan serta pencegahan serangan siber.",
+        "Komunikasi Mandiri: Jika Anda mengirimkan email kepada kami / pertanyaan dukungan atau permohonan penghapusan akun, alamat email dan pesan Anda akan kami simpan secara aman semata mata untuk merespons permintaan Anda."
+      ],
+      "list:en": [
+        "Zero Commercial Tracking Cookies: This website does not deploy third party advertising tracking cookies or invasive user behavior analytics tools.",
+        "Static Server Access Logs: When accessing this website via GitHub Pages, the infrastructure provider / GitHub Inc. may log standard technical web traffic data such as IP address, browser type, and access timestamps solely for transmission security and DDoS prevention.",
+        "Direct Communications: If you send us an email inquiry or account deletion request, your email address and message contents are retained securely solely to resolve and fulfill your inquiry."
+      ]
+    },
+    {
+      "id": "aplikasi-mobile",
+      "icon": "i-lucide-smartphone",
+      "title": "Kebijakan Privasi Khusus Aplikasi Mobile",
+      "title:en": "Application Specific Mobile Policies",
+      "paragraphs": [
+        "Setiap aplikasi mobile yang kami publikasikan di Google Play Store memiliki dokumen Kebijakan Privasi mandiri yang spesifik mengatur izin perangkat / kamera, notifikasi, media dan pengelolaan data operasional aplikasi terkait. Silakan tinjau kebijakan masing masing aplikasi melalui tautan berikut:"
+      ],
+      "paragraphs:en": [
+        "Every mobile application published by our organization on Google Play features dedicated Privacy Policy documentation governing device permissions / camera, notifications, media and operational data handling. Please review individual application policies below:"
+      ],
+      "type": "applications-grid"
+    },
+    {
+      "id": "prinsip-pengembang",
+      "icon": "i-lucide-award",
+      "title": "Standar Etika & Kepatuhan Pengembang",
+      "title:en": "Developer Ethics & Compliance Standards",
+      "paragraphs": [
+        "Sebagai pengembang resmi di ekosistem Google Play Store, Yayasan Fasatalya Cendikia menjunjung tinggi prinsip:"
+      ],
+      "paragraphs:en": [
+        "As a verified developer within the Google Play Store ecosystem, Yayasan Fasatalya Cendikia adheres to core privacy principles:"
+      ],
+      "list": [
+        "Integritas Data: Kami tidak pernah menjual, menyewakan, atau memperdagangkan data pengguna kepada broker data atau jaringan periklanan.",
+        "Kepatuhan Regulasi Google: Seluruh aplikasi mematuhi panduan Google Play Developer Program Policies, termasuk kebijakan keamanan keluarga / Families Policy untuk aplikasi ramah santri.",
+        "Minimisasi Pengumpulan Data: Aplikasi hanya meminta izin perangkat yang mutlak dibutuhkan untuk fungsi utama yang dijalankan pengguna."
+      ],
+      "list:en": [
+        "Data Integrity: We never sell, rent, or trade user data to commercial data brokers or ad networks.",
+        "Google Play Policy Compliance: All applications comply with Google Play Developer Program Policies, including Families Policy guidelines for child safe educational tools.",
+        "Data Minimization: Applications only request device permissions strictly necessary for user requested features."
+      ]
+    },
+    {
+      "id": "keamanan-website",
+      "icon": "i-lucide-lock",
+      "title": "Keamanan Infrastruktur & Hosting",
+      "title:en": "Infrastructure & Hosting Security",
+      "paragraphs": [
+        "Situs web ini disajikan melalui koneksi terenkripsi HTTPS / TLS yang diautentikasi oleh sertifikat digital resmi. Arsitektur berbasis berkas statis meminimalisir risiko kerentanan injeksi basis data atau kebocoran kredensial pengunjung pada level web browser."
+      ],
+      "paragraphs:en": [
+        "This website is delivered over encrypted HTTPS / TLS connections authenticated by official digital certificates. The static file architecture eliminates database injection vulnerabilities and credential leaks at the web level."
+      ]
+    },
+    {
+      "id": "hak-pengguna",
+      "icon": "i-lucide-user-check",
+      "title": "Hak Pengguna & Permohonan Informasi",
+      "title:en": "User Rights & Data Inquiries",
+      "paragraphs": [
+        "Anda berhak menghubungi kami sewaktu waktu untuk mengajukan klarifikasi mengenai kebijakan privasi ini, meminta informasi data Anda pada aplikasi kami, atau mengajukan permohonan penghapusan akun aplikasi terkait."
+      ],
+      "paragraphs:en": [
+        "You have the right to contact us at any time to request clarification regarding this privacy policy, inquire about your personal data across our applications, or submit account and data deletion requests."
+      ]
+    },
+    {
+      "id": "perubahan-kebijakan",
+      "icon": "i-lucide-history",
+      "title": "Perubahan Kebijakan",
+      "title:en": "Policy Revisions & Updates",
+      "paragraphs": [
+        "Kami dapat merevisi Kebijakan Privasi Pengembang & Website ini secara berkala untuk mencerminkan perubahan hukum atau penambahan produk aplikasi baru. Pembaruan akan ditampilkan pada halaman ini dengan tanggal pembaruan terkini."
+      ],
+      "paragraphs:en": [
+        "We may revise this Developer & Website Privacy Policy periodically to reflect regulatory changes or new software product releases. Revisions will be published on this page with an updated modification date."
+      ]
+    },
+    {
+      "id": "kontak",
+      "icon": "i-lucide-mail",
+      "title": "Kontak Resmi Pengembang",
+      "title:en": "Official Developer Contact",
+      "paragraphs": [
+        "Untuk pertanyaan umum mengenai kebijakan privasi atau permohonan bantuan teknis, hubungi kontak resmi kami:"
+      ],
+      "paragraphs:en": [
+        "For general inquiries regarding this privacy policy or technical support, contact us through our official channels:"
+      ],
+      "type": "contact-box"
+    }
+  ]
+}

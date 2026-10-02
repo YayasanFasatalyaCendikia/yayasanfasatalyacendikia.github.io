@@ -13,8 +13,8 @@
   "sections": [
     {
       "id": "pendahuluan",
-      "title": "1. Pendahuluan & Identitas Aplikasi",
-      "title:en": "1. Introduction & Application Identity",
+      "title": "Pendahuluan & Identitas Aplikasi",
+      "title:en": "Introduction & Application Identity",
       "paragraphs": [
         "Kebijakan Privasi ini merupakan dokumen resmi yang diterbitkan oleh Yayasan Fasatalya Cendikia selaku pengembang terverifikasi di Google Play Store untuk aplikasi mobile OtoTrack dengan identitas paket aplikasi Android resmi com.ototrack.mobile.",
         "Dokumen ini mengikat secara hukum bagi seluruh pengguna aplikasi OtoTrack dan merinci bagaimana kami menghimpun, memanfaatkan, menyimpan, serta menjamin keamanan informasi Anda sesuai dengan regulasi perlindungan data yang berlaku dan standar Google Play Developer Policy."
@@ -26,8 +26,8 @@
     },
     {
       "id": "data-dikumpulkan",
-      "title": "2. Informasi yang Kami Kumpulkan",
-      "title:en": "2. Information We Collect",
+      "title": "Informasi yang Kami Kumpulkan",
+      "title:en": "Information We Collect",
       "paragraphs": [
         "Kami hanya mengumpulkan data yang esensial untuk menjalankan fungsionalitas manajemen servis otomotif pada aplikasi OtoTrack:"
       ],
@@ -67,8 +67,8 @@
     },
     {
       "id": "izin-perangkat",
-      "title": "3. Izin Perangkat / Device Permissions",
-      "title:en": "3. Device Permissions",
+      "title": "Izin Perangkat / Device Permissions",
+      "title:en": "Device Permissions",
       "paragraphs": [
         "Aplikasi OtoTrack hanya meminta izin perangkat Android ketika pengguna secara aktif menjalankan fitur operasional:"
       ],
@@ -101,8 +101,8 @@
     },
     {
       "id": "penggunaan-data",
-      "title": "4. Penggunaan Informasi",
-      "title:en": "4. How We Use Information",
+      "title": "Penggunaan Informasi",
+      "title:en": "How We Use Information",
       "paragraphs": [
         "Data pribadi yang dikumpulkan semata mata dimanfaatkan untuk tujuan operasional sah perbengkelan:"
       ],
@@ -126,8 +126,8 @@
     },
     {
       "id": "keamanan-data",
-      "title": "5. Keamanan & Penyimpanan Data",
-      "title:en": "5. Data Security & Storage",
+      "title": "Keamanan & Penyimpanan Data",
+      "title:en": "Data Security & Storage",
       "paragraphs": [
         "Seluruh transmisi data antara aplikasi mobile dan server API dilindungi menggunakan enkripsi standar industri HTTPS/TLS 1.3.",
         "Sistem backend OtoTrack menerapkan arsitektur isolasi basis data fisik / Database per Tenant Multi Tenancy, sehingga data operasional, inventaris, dan pelanggan setiap bengkel terisolasi penuh dari bengkel lain.",
@@ -141,8 +141,8 @@
     },
     {
       "id": "pihak-ketiga",
-      "title": "6. Layanan Pihak Ketiga",
-      "title:en": "6. Third Party Services",
+      "title": "Layanan Pihak Ketiga",
+      "title:en": "Third Party Services",
       "thirdParties": [
         {
           "name": "Google Play Services",
@@ -160,8 +160,8 @@
     },
     {
       "id": "privasi-anak",
-      "title": "7. Kebijakan Privasi Pengguna",
-      "title:en": "7. User Age & Privacy Policy",
+      "title": "Kebijakan Privasi Pengguna",
+      "title:en": "User Age & Privacy Policy",
       "paragraphs": [
         "Aplikasi OtoTrack ditujukan untuk pengguna umum dewasa yang memiliki kendaraan bermotor, pemilik bengkel, serta teknisi/mekanik profesional. Layanan tidak ditujukan untuk anak di bawah usia 13 tahun."
       ],
@@ -171,8 +171,8 @@
     },
     {
       "id": "penghapusan-akun",
-      "title": "8. Hak Pengguna & Prosedur Penghapusan Akun/Data",
-      "title:en": "8. User Rights & Account/Data Deletion Procedure",
+      "title": "Hak Pengguna & Prosedur Penghapusan Akun/Data",
+      "title:en": "User Rights & Account/Data Deletion Procedure",
       "paragraphs": [
         "Sesuai dengan ketentuan Google Play Developer Policy, Anda berhak mengajukan penghapusan akun beserta seluruh data pribadi Anda dari aplikasi OtoTrack kapan saja."
       ],
@@ -194,8 +194,8 @@
     },
     {
       "id": "perubahan-kebijakan",
-      "title": "9. Perubahan Kebijakan Privasi",
-      "title:en": "9. Changes to Privacy Policy",
+      "title": "Perubahan Kebijakan Privasi",
+      "title:en": "Changes to Privacy Policy",
       "paragraphs": [
         "Kami dapat memperbarui kebijakan ini untuk menyesuaikan pembaruan fitur aplikasi atau ketentuan hukum baru. Tanggal perubahan akan diperbarui pada bagian atas dokumen ini."
       ],
@@ -205,8 +205,8 @@
     },
     {
       "id": "kontak",
-      "title": "10. Kontak Pengembang",
-      "title:en": "10. Developer Contact",
+      "title": "Kontak Pengembang",
+      "title:en": "Developer Contact",
       "paragraphs": [
         "Untuk pertanyaan mengenai kebijakan ini atau data Anda, hubungi saluran pengembang resmi kami:"
       ],
