@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>Mengarahkan...</title>
+  <script>
+    /* GitHub Pages SPA Single Page Redirect for Hash Routing */
+    var path = window.location.pathname;
+    /* Remove trailing slash if present except root */
+    if (path.length > 1 && path.endsWith('/')) {
+      path = path.slice(0, -1);
+    }
+    /* Redirect to hash route (e.g. /policy -> /#/policy/) */
+    var target = '/#' + (path === '/' ? '' : path) + window.location.search + window.location.hash;
+    window.location.replace(target);
+  </script>
+</head>
+<body>
+  <p>Mengarahkan ke halaman yang dituju...</p>
+</body>
+</html>

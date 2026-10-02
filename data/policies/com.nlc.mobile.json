@@ -1,0 +1,219 @@
+{
+  "packageId": "com.nlc.mobile",
+  "name": "Nuraniah Learning Center / NLC",
+  "shortName": "Nuraniah Learning Center",
+  "logo": "/launcher.png",
+  "badge": "Islamic Education",
+  "badge:id": "Edukasi Islami",
+  "themeColor": "blue",
+  "lastUpdated": "02 Oktober 2026",
+  "lastUpdated:en": "October 02, 2026",
+  "summary": "Platform monitoring perkembangan santri, tahsin, tahfidz, dan administrasi lembaga pendidikan.",
+  "summary:en": "A comprehensive mobile platform to monitor student Quran learning progress, tahsin, tahfidz, and Islamic school administration.",
+  "sections": [
+    {
+      "id": "pendahuluan",
+      "title": "1. Pendahuluan & Identitas Aplikasi",
+      "title:en": "1. Introduction & Application Identity",
+      "paragraphs": [
+        "Kebijakan Privasi ini merupakan dokumen resmi yang diterbitkan oleh Yayasan Fasatalya Cendikia selaku pengembang terverifikasi di Google Play Store untuk aplikasi mobile Nuraniah Learning Center / NLC dengan identitas paket aplikasi Android resmi com.nlc.mobile.",
+        "Dokumen ini mengikat secara hukum bagi seluruh pengguna aplikasi Nuraniah Learning Center dan merinci bagaimana kami menghimpun, memanfaatkan, menyimpan, serta menjamin keamanan informasi Anda sesuai dengan regulasi perlindungan data yang berlaku dan standar Google Play Developer Policy."
+      ],
+      "paragraphs:en": [
+        "This Privacy Policy is an official document published by Yayasan Fasatalya Cendikia as a verified developer on the Google Play Store for the mobile application Nuraniah Learning Center / NLC under official Android package ID com.nlc.mobile.",
+        "This document is legally binding for all users of Nuraniah Learning Center and details how we collect, use, store, and safeguard your personal information in accordance with applicable data protection regulations and Google Play Developer Policy standards."
+      ]
+    },
+    {
+      "id": "data-dikumpulkan",
+      "title": "2. Informasi yang Kami Kumpulkan",
+      "title:en": "2. Information We Collect",
+      "paragraphs": [
+        "Kami hanya mengumpulkan data yang esensial untuk menjalankan fungsionalitas aplikasi Nuraniah Learning Center:"
+      ],
+      "paragraphs:en": [
+        "We only collect data that is essential for operating the functionality of the Nuraniah Learning Center application:"
+      ],
+      "items": [
+        {
+          "icon": "i-lucide-user",
+          "title": "Data Akun & Orang Tua/Wali",
+          "title:en": "Account & Parent/Guardian Data",
+          "description": "Nama lengkap pengguna, username, alamat surel / email, nomor telepon WhatsApp, dan foto profil pengguna / opsional.",
+          "description:en": "Full user name, username, email address, WhatsApp telephone number, and optional profile picture."
+        },
+        {
+          "icon": "i-lucide-book-open",
+          "title": "Data Akademik & Hafalan Santri",
+          "title:en": "Academic & Quran Memorization Data",
+          "description": "Nama santri, kelompok tahsin/tahfidz, rekam mutabaah Al Qur'an / surah, ayat, jilid, riwayat presensi sesi, dan catatan evaluasi ustadz.",
+          "description:en": "Student name, tahsin/tahfidz study group, Quran mutabaah progress / surah, ayah, volume, session attendance history, and teacher evaluations."
+        },
+        {
+          "icon": "i-lucide-receipt",
+          "title": "Administrasi & SPP Santri",
+          "title:en": "Tuition & School Administration",
+          "description": "Status tagihan paket belajar, riwayat infak/SPP, serta foto struk bukti pembayaran yang diunggah pengguna.",
+          "description:en": "Study package billing status, tuition/donation transaction history, and payment receipt photos uploaded by users."
+        },
+        {
+          "icon": "i-lucide-bell",
+          "title": "Token Notifikasi & Teknis",
+          "title:en": "Push Tokens & Technical Diagnostics",
+          "description": "Token Firebase Cloud Messaging / FCM dan data diagnostik perangkat untuk pengantaran notifikasi kehadiran santri.",
+          "description:en": "Firebase Cloud Messaging / FCM push tokens and device diagnostics to ensure timely delivery of student attendance and memorization notices."
+        }
+      ]
+    },
+    {
+      "id": "izin-perangkat",
+      "title": "3. Izin Perangkat / Device Permissions",
+      "title:en": "3. Device Permissions",
+      "paragraphs": [
+        "Aplikasi Nuraniah Learning Center hanya meminta izin perangkat Android ketika pengguna secara aktif menjalankan fitur tertentu:"
+      ],
+      "paragraphs:en": [
+        "The Nuraniah Learning Center application only requests Android device permissions when the user actively triggers specific actions:"
+      ],
+      "permissions": [
+        {
+          "icon": "i-lucide-camera",
+          "name": "Kamera / android.permission.CAMERA",
+          "name:en": "Camera / android.permission.CAMERA",
+          "description": "Digunakan untuk memotret foto profil akun pengguna/santri secara langsung atau mengambil foto bukti transfer infak/SPP. Aplikasi tidak pernah menyalakan kamera secara diam diam di latar belakang.",
+          "description:en": "Used to capture profile photos directly or take photos of tuition payment receipts. The application never accesses the camera silently in the background."
+        },
+        {
+          "icon": "i-lucide-image",
+          "name": "Galeri & Media / READ_MEDIA_IMAGES / READ_EXTERNAL_STORAGE",
+          "name:en": "Photos & Media / READ_MEDIA_IMAGES / READ_EXTERNAL_STORAGE",
+          "description": "Digunakan untuk memilih gambar dari galeri perangkat guna melampirkan foto profil atau berkas tanda bukti pembayaran.",
+          "description:en": "Used to select images from the device gallery to attach profile pictures or payment confirmation receipts."
+        },
+        {
+          "icon": "i-lucide-bell",
+          "name": "Notifikasi Dorong / android.permission.POST_NOTIFICATIONS",
+          "name:en": "Push Notifications / android.permission.POST_NOTIFICATIONS",
+          "description": "Digunakan pada Android 13+ untuk menyampaikan pemberitahuan penting seperti verifikasi setoran hafalan harian santri, presensi kelas, dan pengumuman kegiatan yayasan.",
+          "description:en": "Used on Android 13+ to deliver critical alerts such as daily memorization verification, class attendance, and school announcements."
+        }
+      ]
+    },
+    {
+      "id": "penggunaan-data",
+      "title": "4. Penggunaan Informasi",
+      "title:en": "4. How We Use Information",
+      "paragraphs": [
+        "Data pribadi yang dikumpulkan semata mata dimanfaatkan untuk tujuan operasional sah pendidikan:"
+      ],
+      "paragraphs:en": [
+        "Personal data collected is used solely for legitimate educational operational purposes:"
+      ],
+      "list": [
+        "Menyajikan transparansi rekam capaian belajar Al Qur'an dan mutabaah kepada orang tua/wali santri.",
+        "Otentikasi kredensial pengguna dan perlindungan akun dari akses tidak sah.",
+        "Mengirimkan konfirmasi administratif, faktur/invoice, serta informasi pemeliharaan resmi.",
+        "Mendukung audit teknis dan penanganan kendala aplikasi."
+      ],
+      "list:en": [
+        "Providing transparency of Quran memorization and mutabaah progress to parents and guardians.",
+        "Authenticating user credentials and safeguarding accounts from unauthorized access.",
+        "Sending administrative confirmations, receipts/invoices, and service announcements.",
+        "Supporting technical diagnostics and bug resolution."
+      ],
+      "notice": "Yayasan Fasatalya Cendikia TIDAK PERNAH menjual, menyewakan, atau memperdagangkan data pengguna kepada pihak ketiga manapun untuk periklanan pihak ketiga.",
+      "notice:en": "Yayasan Fasatalya Cendikia NEVER sells, leases, or trades user data to any third party for advertising purposes."
+    },
+    {
+      "id": "keamanan-data",
+      "title": "5. Keamanan & Penyimpanan Data",
+      "title:en": "5. Data Security & Storage",
+      "paragraphs": [
+        "Seluruh transmisi data antara aplikasi mobile dan server API dilindungi menggunakan enkripsi standar industri HTTPS/TLS 1.3.",
+        "Sesi pengguna diamankan menggunakan token otentikasi terenkripsi / Bearer Token / JWT yang disimpan di area memori aman perangkat / Secure Storage."
+      ],
+      "paragraphs:en": [
+        "All data transmissions between the mobile app and API servers are protected using industry standard HTTPS/TLS 1.3 encryption.",
+        "User sessions are secured using encrypted authentication tokens stored exclusively in the device's Secure Storage hardware keystore."
+      ]
+    },
+    {
+      "id": "pihak-ketiga",
+      "title": "6. Layanan Pihak Ketiga",
+      "title:en": "6. Third Party Services",
+      "thirdParties": [
+        {
+          "name": "Google Play Services",
+          "privacyUrl": "https://policies.google.com/privacy",
+          "description": "Distribusi aplikasi resmi dan verifikasi keaslian paket aplikasi.",
+          "description:en": "Official app distribution and package authenticity verification."
+        },
+        {
+          "name": "Firebase Cloud Messaging / FCM",
+          "privacyUrl": "https://firebase.google.com/support/privacy",
+          "description": "Pengantaran notifikasi kehadiran santri dan capaian hafalan real time.",
+          "description:en": "Delivery of real time student attendance and memorization notifications."
+        }
+      ]
+    },
+    {
+      "id": "privasi-anak",
+      "title": "7. Kebijakan Privasi Pengguna & Keluarga",
+      "title:en": "7. Child & Family Privacy Policy",
+      "paragraphs": [
+        "Aplikasi Nuraniah Learning Center mematuhi Google Play Families Policy. Akun pengguna dioperasikan secara eksklusif oleh orang tua, wali sah, dan pengajar dewasa.",
+        "Data identitas santri / anak di bawah umur dimasukkan dan dikelola hanya dengan persetujuan orang tua/wali serta pihak sekolah yang berwenang. Kami tidak mengumpulkan data pribadi langsung dari anak di bawah usia 13 tahun tanpa pendampingan orang tua."
+      ],
+      "paragraphs:en": [
+        "Nuraniah Learning Center complies with Google Play Families Policy. User accounts are operated exclusively by parents, legal guardians, and adult educators.",
+        "Minor student data is entered and managed strictly with consent from authorized parents/guardians and schools. We do not collect personal data directly from children under 13 without parental consent."
+      ]
+    },
+    {
+      "id": "penghapusan-akun",
+      "title": "8. Hak Pengguna & Prosedur Penghapusan Akun/Data",
+      "title:en": "8. User Rights & Account/Data Deletion Procedure",
+      "paragraphs": [
+        "Sesuai dengan ketentuan Google Play Developer Policy, Anda berhak mengajukan penghapusan akun beserta seluruh data pribadi Anda dari aplikasi Nuraniah Learning Center kapan saja."
+      ],
+      "paragraphs:en": [
+        "In compliance with Google Play Developer Policy, you have the right to request the complete deletion of your account and associated personal records at any time."
+      ],
+      "deletionSteps": [
+        "Kirimkan email permohonan ke support@nuraniahlearningcenter.com",
+        "Gunakan subjek: 'Permohonan Penghapusan Akun Nuraniah Learning Center'",
+        "Cantumkan nama lengkap, username/email terdaftar, dan nomor telepon akun Anda untuk proses verifikasi."
+      ],
+      "deletionSteps:en": [
+        "Send a deletion request email to support@nuraniahlearningcenter.com",
+        "Use subject line: 'Account Deletion Request ~ Nuraniah Learning Center'",
+        "Include your registered full name, email/username, and phone number for verification."
+      ],
+      "deletionNote": "Setelah identitas Anda diverifikasi, data profil pengguna, foto, riwayat login, dan rekam data aktif akan dihapus secara permanen dari basis data produksi kami dalam kurun waktu maksimal 14 hari kerja.",
+      "deletionNote:en": "Once verified, your profile data, uploaded photos, login history, and active records will be permanently purged from our production database within 14 business days."
+    },
+    {
+      "id": "perubahan-kebijakan",
+      "title": "9. Perubahan Kebijakan Privasi",
+      "title:en": "9. Changes to Privacy Policy",
+      "paragraphs": [
+        "Kami dapat memperbarui kebijakan ini untuk menyesuaikan pembaruan fitur aplikasi atau ketentuan hukum baru. Tanggal perubahan akan diperbarui pada bagian atas dokumen ini."
+      ],
+      "paragraphs:en": [
+        "We may update this policy periodically to reflect new features or regulatory requirements. Any modifications will be indicated by the updated date at the top of this document."
+      ]
+    },
+    {
+      "id": "kontak",
+      "title": "10. Kontak Pengembang",
+      "title:en": "10. Developer Contact",
+      "paragraphs": [
+        "Untuk pertanyaan mengenai kebijakan ini atau data Anda, hubungi saluran pengembang resmi kami:"
+      ],
+      "paragraphs:en": [
+        "For any inquiries regarding this policy or your personal data, reach out to our official channels:"
+      ]
+    }
+  ],
+  "applicationId": "nlc"
+}

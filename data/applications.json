@@ -1,0 +1,109 @@
+[
+  {
+    "id": "nlc",
+    "name": "Nuraniah Learning Center / NLC",
+    "shortName": "Nuraniah Learning Center",
+    "packageId": "com.nlc.mobile",
+    "category": "Education & Student Progress Monitoring",
+    "category:id": "Pendidikan & Monitoring Belajar",
+    "badge": "Islamic Education",
+    "badge:id": "Edukasi Islami",
+    "logo": "https://i.ibb.co.com/MxFQvKvj/launcher.png",
+    "tagline": "A comprehensive mobile platform to monitor student Quran learning progress, tahsin, tahfidz, and Islamic school administration.",
+    "tagline:id": "Platform monitoring perkembangan santri, tahsin, tahfidz, dan administrasi lembaga pendidikan.",
+    "features": [
+      {
+        "icon": "i-lucide-calendar-check-2",
+        "title": "Digital Attendance",
+        "title:id": "Presensi Digital Santri",
+        "description": "Real time daily student attendance verified by teachers.",
+        "description:id": "Pencatatan kehadiran harian santri real time terverifikasi ustadz."
+      },
+      {
+        "icon": "i-lucide-book-open-check",
+        "title": "Tahsin & Mutabaah Tracker",
+        "title:id": "Monitoring Tahsin & Mutabaah",
+        "description": "Historical records of lesson submissions, volumes, and Quran memorization achievements.",
+        "description:id": "Riwayat setoran dars, jilid, dan capaian hafalan Al Qur'an."
+      },
+      {
+        "icon": "i-lucide-receipt",
+        "title": "Transparent Tuition & Invoices",
+        "title:id": "Transparansi SPP & Paket",
+        "description": "Easy access to invoice details, donation history, and tuition payment status.",
+        "description:id": "Akses mudah ke rincian invoice, riwayat infak, dan status iuran."
+      },
+      {
+        "icon": "i-lucide-bell-ring",
+        "title": "Instant Notifications",
+        "title:id": "Notifikasi Setoran & Agenda",
+        "description": "Real time notifications for attendance, announcements, and student evaluations sent to parents.",
+        "description:id": "Pemberitahuan instan kehadiran dan evaluasi belajar ke orang tua."
+      }
+    ],
+    "type": "android",
+    "images": [
+      "https://i.ibb.co.com/HDbV66Jj/nlc-2026-10-02-13-44-58.jpg",
+      "https://i.ibb.co.com/gZgD0t8v/nlc-2026-10-02-13-44-59.jpg"
+    ],
+    "links": [
+      {
+        "text": "Google Play",
+        "text:id": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.nlc.mobile"
+      }
+    ],
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.nlc.mobile",
+    "privacyPolicyUrl": "/com.nlc.mobile/policy"
+  },
+  {
+    "id": "ototrack",
+    "name": "OtoTrack ~ Workshop & Live Service Tracker",
+    "shortName": "OtoTrack",
+    "packageId": "com.ototrack.mobile",
+    "category": "Workshop Management & Automotive SaaS",
+    "category:id": "Manajemen Operasional & Otomotif",
+    "badge": "Automotive & Workshop",
+    "badge:id": "Otomotif & Bengkel",
+    "logo": "https://i.ibb.co.com/kVQKcG3G/logo.png",
+    "tagline": "Modern multi branch automotive workshop ERP platform with real time live vehicle service tracking for customers and mechanics.",
+    "tagline:id": "Platform modern manajemen bengkel otomotif multi cabang & pelacakan status servis kendaraan secara real time.",
+    "features": [
+      {
+        "icon": "i-lucide-activity",
+        "title": "Real Time Live Service Tracking",
+        "title:id": "Live Tracking Servis Real Time",
+        "description": "Vehicle owners can track each stage of repair and maintenance progress from anywhere.",
+        "description:id": "Pelanggan dapat memantau setiap tahap pengerjaan kendaraan dari mana saja."
+      },
+      {
+        "icon": "i-lucide-camera",
+        "title": "Digital Work Order & Photo Inspection",
+        "title:id": "Digital SPK & Inspeksi Foto",
+        "description": "Photo documentation of vehicle conditions before and after service with customer approval.",
+        "description:id": "Dokumentasi foto fisik kondisi kendaraan sebelum dan sesudah diservis."
+      },
+      {
+        "icon": "i-lucide-boxes",
+        "title": "Multi Branch & Spare Parts Inventory",
+        "title:id": "Multi Cabang & Stok Suku Cadang",
+        "description": "Centralized spare parts stock control, cross branch transfers, and mechanic assignment.",
+        "description:id": "Kontrol gudang sparepart, mutasi antar cabang, dan manajemen mekanik."
+      },
+      {
+        "icon": "i-lucide-receipt",
+        "title": "Transparent Invoicing & Estimates",
+        "title:id": "Faktur & Estimasi Transparan",
+        "description": "Detailed cost breakdown for labor and parts with automated digital billing invoices.",
+        "description:id": "Rincian biaya jasa dan suku cadang jelas dengan cetak invoice otomatis."
+      }
+    ],
+    "type": "desktop",
+    "images": [
+      "https://i.ibb.co.com/GfZxthL9/Screenshot-20261002-135321.png",
+      "https://i.ibb.co.com/Rk0nBjkP/Screenshot-20261002-135300.png"
+    ],
+    "links": [],
+    "privacyPolicyUrl": "/com.ototrack.mobile/policy"
+  }
+]

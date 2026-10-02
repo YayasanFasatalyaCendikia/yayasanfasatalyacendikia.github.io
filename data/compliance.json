@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "i-lucide-lock",
+    "title": "Data Transmission Encryption / TLS",
+    "title:id": "Keamanan Data Transmisi / TLS",
+    "description": "All API exchanges across each mobile application are secured with modern HTTPS/TLS 1.3 encryption.",
+    "description:id": "Seluruh pertukaran data API pada setiap aplikasi dilindungi enkripsi standar HTTPS/TLS modern."
+  },
+  {
+    "icon": "i-lucide-shield-check",
+    "title": "User Privacy Protection",
+    "title:id": "Perlindungan Privasi Pengguna",
+    "description": "Fully compliant with Google Play Families Policies and database level isolation.",
+    "description:id": "Mematuhi kebijakan Google Play Families Policy serta pemisahan data aman / Data Isolation."
+  },
+  {
+    "icon": "i-lucide-user-x",
+    "title": "Account & Data Deletion Rights",
+    "title:id": "Mekanisme Hapus Data Mandiri",
+    "description": "Users maintain full rights to request complete deletion of their account and personal records at any time.",
+    "description:id": "Pengguna memiliki hak penuh untuk mengajukan penghapusan akun dan data pribadi kapan saja."
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "name": "Yayasan Fasatalya Cendikia",
+  "shortName": "Fasatalya Cendikia",
+  "developerType": "Google Play Verified Developer",
+  "email": "support@nuraniahlearningcenter.com",
+  "website": "https://yayasanfasatalyacendikia.github.io",
+  "policyUrl": "https://yayasanfasatalyacendikia.github.io/#/policy/",
+  "tagline": "Trusted Educational & Management Technology",
+  "tagline:id": "Teknologi Pendidikan & Manajemen Terpercaya",
+  "subtitle": "Yayasan Fasatalya Cendikia builds high performance mobile applications supporting Islamic education and modern automotive solutions with privacy and transparency.",
+  "subtitle:id": "Yayasan Fasatalya Cendikia menghadirkan aplikasi mobile berkinerja tinggi untuk mendukung kemajuan pendidikan santri serta solusi otomotif modern yang aman dan transparan.",
+  "description": "An organization dedicated to building high performance educational and management software with the highest standards of user privacy and transparency.",
+  "description:id": "Organisasi pengembang teknologi pendidikan dan manajemen yang berdedikasi membangun aplikasi berkualitas tinggi, aman, dan ramah santri serta masyarakat.",
+  "trustIndicators": [
+    {
+      "icon": "i-lucide-shield-check",
+      "label": "Google Play Compliant",
+      "label:id": "Google Play Compliant"
+    },
+    {
+      "icon": "i-lucide-lock",
+      "label": "TLS 1.3 Encryption",
+      "label:id": "Enkripsi TLS 1.3"
+    },
+    {
+      "icon": "i-lucide-heart-handshake",
+      "label": "100% Ad Free",
+      "label:id": "100% Bebas Iklan"
+    }
+  ]
+}
