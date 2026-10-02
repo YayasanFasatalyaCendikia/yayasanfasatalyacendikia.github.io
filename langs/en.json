@@ -65,5 +65,16 @@
   "Status:": "Status:",
   "Official Email:": "Official Email:",
   "Official Website:": "Official Website:",
-  "Document URL:": "Document URL:"
+  "Document URL:": "Document URL:",
+  "Switch to Light Theme": "Switch to Light Theme",
+  "Switch to Dark Theme": "Switch to Dark Theme",
+  "Light Theme": "Light Theme",
+  "Dark Theme": "Dark Theme",
+  "Developer:": "Developer:",
+  "Application:": "Application:",
+  "Policy URL:": "Policy URL:",
+  "Loading application privacy policy...": "Loading application privacy policy...",
+  "Policy Document Not Found": "Policy Document Not Found",
+  "Policy file for {packageId} is not yet available or is being published.": "Policy file for {packageId} is not yet available or is being published.",
+  "Back to Policy Portal": "Back to Policy Portal"
 }
