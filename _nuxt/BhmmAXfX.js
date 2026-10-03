@@ -1,0 +1,1 @@
+import{j as e}from"./Dx9DaBbP.js";function t(){return{currentHost:e(()=>typeof window<`u`?window.location.host:`yayasanfasatalyacendikia.github.io`),currentOrigin:e(()=>typeof window<`u`?window.location.origin:`https://yayasanfasatalyacendikia.github.io`)}}export{t};
